@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install-server": "cd Backend && npm i",
-    "start-server": "cd Backend && npm run start:dev ",
-    "install-FrontEnd": "cd FrontEnd && npm i",
+    "install-server": "cd BackEnd && npm install",
+    "start-server": "cd BackEnd && npm run start:dev ",
+    "install-FrontEnd": "cd FrontEnd && npm install",
     "build-FrontEnd": "cd FrontEnd && npm run build",
     "start-FrontEnd": "cd FrontEnd && npm run start"
   },
