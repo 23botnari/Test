@@ -1,0 +1,16 @@
+{
+  "name": "React-Tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd Backend && npm i",
+    "start-server": "cd Backend && npm run start:dev ",
+    "install-FrontEnd": "cd FrontEnd && npm i",
+    "build-FrontEnd": "cd FrontEnd && npm run build",
+    "start-FrontEnd": "cd FrontEnd && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
